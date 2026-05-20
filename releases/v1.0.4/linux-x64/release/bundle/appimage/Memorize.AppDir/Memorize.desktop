@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=Privacy-conscious desktop flashcard study app
+Exec=memorize-desktop
+StartupWMClass=memorize-desktop
+Icon=memorize-desktop
+Name=Memorize
+Terminal=false
+Type=Application
