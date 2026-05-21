@@ -1,0 +1,51 @@
+{
+  "version": "1.0.4",
+  "notes": "Release from release/v1.0.",
+  "pub_date": "2026-05-20T16:36:41.221Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEs3VFc3aFc2NG1JMnhJRWlnVnlmbHJ2NHF4QlhZc3BpMWpQcnd6L3k4OVJxWkY0eHlzZk9TZklpdWJFWldlYUFFa1pPdWxteE53UlpwQ285ak02T1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0NjQ3CWZpbGU6TWVtb3JpemUuYXBwLnRhci5negpRWnFmYks4eGNuMTU2UmF1VTd6UkRaUXV1R1I5VldNRTJ4eXZNTS9qdjNIemY5NGJvcDhucmZISGluVDNBUlNPSWQvYldyTVRKZGhBdWdxejFQNTZBZz09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/assets/Memorize_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEs3VFc3aFc2NG1JMnhJRWlnVnlmbHJ2NHF4QlhZc3BpMWpQcnd6L3k4OVJxWkY0eHlzZk9TZklpdWJFWldlYUFFa1pPdWxteE53UlpwQ285ak02T1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0NjQ3CWZpbGU6TWVtb3JpemUuYXBwLnRhci5negpRWnFmYks4eGNuMTU2UmF1VTd6UkRaUXV1R1I5VldNRTJ4eXZNTS9qdjNIemY5NGJvcDhucmZISGluVDNBUlNPSWQvYldyTVRKZGhBdWdxejFQNTZBZz09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/assets/Memorize_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhME92c2ZzbDZDTktvYXB2TWRGYUdiZUdiV1p1KzZoNFhFdkczU3h1VTl2azNKaUZ2MTg5ZVZOR0VVVTAvbC92dEh1VFNRR1Y3cGU1OUpQcmJjM1BsOWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODE5CWZpbGU6TWVtb3JpemUuYXBwLnRhci5negp0QkNtRTdDcDBsR1F5WkI1bUJsNmN2QTEwOUUxM0dWSjRLaGNDOStkSDUyQSs1WXI3bktHcmk4eWJvSTdRY2U3VFVIbWlSa3NMNGJrWld3c3gxVWZDZz09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/assets/Memorize_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhME92c2ZzbDZDTktvYXB2TWRGYUdiZUdiV1p1KzZoNFhFdkczU3h1VTl2azNKaUZ2MTg5ZVZOR0VVVTAvbC92dEh1VFNRR1Y3cGU1OUpQcmJjM1BsOWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODE5CWZpbGU6TWVtb3JpemUuYXBwLnRhci5negp0QkNtRTdDcDBsR1F5WkI1bUJsNmN2QTEwOUUxM0dWSjRLaGNDOStkSDUyQSs1WXI3bktHcmk4eWJvSTdRY2U3VFVIbWlSa3NMNGJrWld3c3gxVWZDZz09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/assets/Memorize_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhME5qZXJFb3lycUVhZjU1RVM4TXdlV1pqNndHZXJnd0F6VWlyUDhnMHYrcnowbnVLa3pId2lSN0FDTUNpSGY5Q3c1aXBGYk45Q1JzYlczSkZ5Y21BRWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODYyCWZpbGU6TWVtb3JpemVfMS4wLjRfYW1kNjQuQXBwSW1hZ2UKaWpaTGxVWThZcFYxM3QwV1J5aUNpS0gvZGN3L2Q3STAydVdsbmtPNkdSajZYbUlBeHFLdElxaVJXMDBObmtXUStiYm5xV0gxbGJGVG4ydVFjRW01Qnc9PQo=",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/linux-x64/release/bundle/appimage/Memorize_1.0.4_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhME5qZXJFb3lycUVhZjU1RVM4TXdlV1pqNndHZXJnd0F6VWlyUDhnMHYrcnowbnVLa3pId2lSN0FDTUNpSGY5Q3c1aXBGYk45Q1JzYlczSkZ5Y21BRWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODYyCWZpbGU6TWVtb3JpemVfMS4wLjRfYW1kNjQuQXBwSW1hZ2UKaWpaTGxVWThZcFYxM3QwV1J5aUNpS0gvZGN3L2Q3STAydVdsbmtPNkdSajZYbUlBeHFLdElxaVJXMDBObmtXUStiYm5xV0gxbGJGVG4ydVFjRW01Qnc9PQo=",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/linux-x64/release/bundle/appimage/Memorize_1.0.4_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEc5WFlnYkNtaGdmRUcxOHlzWmtoS0FjblA4dGN5NzdmeUhBSnQ3eko2N1BsdE54b1MwZlV6aVRnSlphcEZKWkZ2R2tkMWdtRmpRMFU1cnMwSUgwV2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODYyCWZpbGU6TWVtb3JpemVfMS4wLjRfYW1kNjQuZGViCjZEQXVSaTBXMjB3U3d1VVc3ZndUcnd1TXREME52SkU3V3lONktOU1dYSFQzMUVnc2lDZnpRTnhXbWh6QTBPTEltNGd2ek5BdFRLeXpzRlJGcHZMUEJBPT0K",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/linux-x64/release/bundle/deb/Memorize_1.0.4_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEx0bEpsREU0Wm9YVURGbTRJY2txcGhDR1pvWDdVU0RxWVo0T3Nid3FIbElmUEJJZUEyU3I4SS9xQnZuTzgyV0t0eVk2VEVyVGVRK0NwK3Z6ZVpFamdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0ODYyCWZpbGU6TWVtb3JpemUtMS4wLjQtMS54ODZfNjQucnBtCm5HeGg5Y241dzVKREhLUytqbXIwWUF4T1NHRFlFZDZTOG1yc2tsWEtPZWZWY1BpNTl2VVBLUVlzdTd1TlJwUVJhdll2MXJBdkpPb2FYZjdibmZjbERRPT0K",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/linux-x64/release/bundle/rpm/Memorize-1.0.4-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEtpWWlaa2tyR3Y5Wm93WjFZNzVaTUl6T2JGZElrMjZyZFhWS0JmWXJBU3lOMUE0aUtrYjhNNHVGbVFYbDRoaTJ2Y2g2TUQ0RUJWWHppMUZzckFVR2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0OTk3CWZpbGU6TWVtb3JpemVfMS4wLjRfeDY0X2VuLVVTLm1zaQpJUGdpVWhZY2Z5VjEwNTgwQVB5VnlGRDRWVkRsSnpqYVd3SHRkYS85STB2aDRtMWorYU1KcHg5OHVzUldxV2RBZHNaMFBkZzhlZ1hFRnNpR3ZKOXlBUT09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/windows-x64/release/bundle/msi/Memorize_1.0.4_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEtpWWlaa2tyR3Y5Wm93WjFZNzVaTUl6T2JGZElrMjZyZFhWS0JmWXJBU3lOMUE0aUtrYjhNNHVGbVFYbDRoaTJ2Y2g2TUQ0RUJWWHppMUZzckFVR2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0OTk3CWZpbGU6TWVtb3JpemVfMS4wLjRfeDY0X2VuLVVTLm1zaQpJUGdpVWhZY2Z5VjEwNTgwQVB5VnlGRDRWVkRsSnpqYVd3SHRkYS85STB2aDRtMWorYU1KcHg5OHVzUldxV2RBZHNaMFBkZzhlZ1hFRnNpR3ZKOXlBUT09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/windows-x64/release/bundle/msi/Memorize_1.0.4_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEYwSlNmZGJhMEJyN1IwSVR1cG53OWdWSWs2VXgvVEhJVkdOK0Y0NFlIUkNlMC9vNDFLcDhlUVNsczdZc2FLU0lGck5JcmtUS2dCZW9wVnNaUzdTa0xTMG9UR1J1Q2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjk0OTk3CWZpbGU6TWVtb3JpemVfMS4wLjRfeDY0LXNldHVwLmV4ZQpGWUoxWjBocWNoK3U3SDZkYnVseWI4RDZDeUt5ZURUeEE5cmJLd2xUYVZLQmU0UnQyNWxMZ1NYZ0N0bThiV1RGVitwckhTWU03VnArWU5VTjRNemlBdz09Cg==",
+      "url": "https://tofudemy.github.io/memorize/releases/v1.0.4/windows-x64/release/bundle/nsis/Memorize_1.0.4_x64-setup.exe"
+    }
+  }
+}

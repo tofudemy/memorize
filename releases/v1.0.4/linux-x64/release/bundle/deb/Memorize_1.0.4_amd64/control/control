@@ -1,0 +1,9 @@
+Package: memorize
+Version: 1.0.4
+Architecture: amd64
+Installed-Size: 20134
+Maintainer: hadv
+Priority: optional
+Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Description: Privacy-conscious desktop flashcard study app
+ (none)
